@@ -1,10 +1,9 @@
-# Ignore everything
-*
+# Builds
+Builds/
 
-# Except
-!.gitignore
-!README.md
-!LICENSE.txt
-!code.lua
-!images/
-!images/*
+# vscode
+.VSCode/
+
+# other
+spritebuilder/
+sb-sprites.lua
