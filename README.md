@@ -1,5 +1,6 @@
 # CheeseBot6000
 ![game_thumbnail](images/thumbnail.png)
+
 CheeseBot6000 is a puzzle game about a robot eating cheese.
 The game itself can be found ([here](http://mustbeatomic.itch.io/cheesebot-6000))
 
