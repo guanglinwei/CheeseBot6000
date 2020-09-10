@@ -6,9 +6,14 @@
 CheeseBot6000 is a puzzle game about a robot eating cheese.
 The game itself can be found ([here](http://mustbeatomic.itch.io/cheesebot-6000))
 
-Note that this repo only contains the code.lua file.
+The ([code.lua file](code.lua))
 
 Made with the ([Pixel 8 Fantasy Console](http://pixelvision8.itch.io/pv8)), for the ([Miz Game Jam 1](http://itch.io/jam/miz-jam-1)).
+
+
+### Making Changes
+Install the ([Pixel 8 Fantasy Console](http://pixelvision8.itch.io/pv8)). Unzip this repo into PixelVision8's Workspace directory. 
+Use PixelVision8's interface to open the CheeseBot6000 folder.
 
 
 ### Screenshots
