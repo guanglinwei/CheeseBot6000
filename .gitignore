@@ -1,8 +1,8 @@
-# Builds
-Builds/
+# Ignore everything
+*
 
-# .vscode
-.VSCode/
-
-# other
-spritebuilder/
+# Except
+!.gitignore
+!README.md
+!LICENSE.txt
+!code.lua
